@@ -2,4 +2,3 @@
 git commit -m 'add branch1'
 репозиторию внешнего участника.
 это для черипика branch2
-revert
